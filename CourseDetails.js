@@ -31,6 +31,13 @@ const courseDetails = [
     tutor: "Hemanth Kumar",
     price: 74.99,
   },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3XspFeTXDplmXKwxwL2TuRi-LnxWlsEfbYSJ_dGQDw&s",
+    courseName: "AWS class and online training",
+    tutor: "Ajay Kumar",
+    price: 79.99,
+  },
 ];
 
 export default courseDetails;
